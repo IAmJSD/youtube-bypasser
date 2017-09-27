@@ -8,5 +8,5 @@ Some Kind of Webserver
 
 ### Please give credit if you use this.
 © Copyright 2017 Liam Snodgrass
-[My site](https://liam.host)
-[The Original Version](https://c.liam.host)
+#### [My site](https://liam.host)
+#### [The Original Version](https://c.liam.host)
